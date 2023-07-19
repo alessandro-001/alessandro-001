@@ -1,4 +1,4 @@
-![Header](./github-header-image2.png)
+![Header](./banner-logo.png)
 
 <!--
 **alessandro-001/alessandro-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
