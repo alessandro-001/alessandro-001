@@ -1,4 +1,4 @@
-![Header](./banner-logo2.png)
+![Header](./banner-logo.png)
 
 
 Welcome to my GitHub! 🚀 I'm an enthusiastic early-career software developer, always striving to improve and learn. My heart lies in the realm of front-end development, where my passion for precision and attention to detail, honed from my previous job as a dental technician, inspires me to create thoughtful user experiences. 
