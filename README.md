@@ -4,6 +4,9 @@
 Welcome to my GitHub! 🚀 I'm an enthusiastic early-career software developer, always striving to improve and learn. My heart lies in the realm of front-end development, where my passion for precision and attention to detail, honed from my previous job as a dental technician, inspires me to create thoughtful user experiences. 
 Join me on this exciting path as we collaborate and create quality work that delights users and exceeds expectations!
 
+Stuff I'm currently involved with:
+- 🔭 Front-end web projects and mobile applications, honing my skills with React/React-native;
+- 🌱 Learning C++, as a videogame enthusiast I want to keep the door open for possible roles in the industry;
 
 
 <!--
