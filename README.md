@@ -7,6 +7,7 @@ Join me on this exciting path as we collaborate and create quality work that del
 Stuff I'm currently involved with:
 - ⚛ Front-end web projects and mobile applications, honing my skills with React/React-native;
 - 👾 Learning C++, as a videogame enthusiast I want to keep the door open for possible roles in the industry;
+- 👯 I’m looking to collaborate on any projects that involves UI/UX;
 
 
 <!--
