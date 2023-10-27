@@ -14,7 +14,7 @@ Stuff I'm currently involved with:
     <img src="https://github-readme-stats.vercel.app/api?username=alessandro-001&theme=algolia&show_icons=true" alt="Top Languages" style="height: 100%;">
   </a>
   <a href="https://github.com/alessandro-001" style="flex: 1; margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandro-001&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="GitHub Stats" style="height: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandro-001&theme=algolia&show_icons=true" alt="GitHub Stats" style="height: 100%;">
   </a>
 </div>
 
