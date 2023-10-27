@@ -10,10 +10,10 @@ Stuff I'm currently involved with:
 - 👯 I’m looking to collaborate on any projects that involves UI/UX;
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/alessandro-001" style="flex: 1; margin-right: 5px;">
+  <a href="https://github.com/alessandro-001" style="flex: 1; margin-right: 5px; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=alessandro-001&theme=algolia&show_icons=true" alt="Top Languages" style="height: 100%;">
   </a>
-  <a href="https://github.com/alessandro-001" style="flex: 1; margin-left: 10px;">
+  <a href="https://github.com/alessandro-001" style="flex: 1; margin-left: 10px; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandro-001&theme=algolia&show_icons=true" alt="GitHub Stats" style="height: 100%;">
   </a>
 </div>
