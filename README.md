@@ -9,7 +9,7 @@ Stuff I'm currently involved with:
 - 👾 Learning C++, as a videogame enthusiast I want to keep the door open for possible roles in the industry;
 - 👯 I’m looking to collaborate on any projects that involves UI/UX;
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/alessandro-001" style="flex: 1; margin-right: 5px;">
     <img src="https://github-readme-stats.vercel.app/api?username=alessandro-001&theme=algolia&show_icons=true" alt="Top Languages" style="height: 100%;">
   </a>
