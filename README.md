@@ -9,6 +9,7 @@ Stuff I'm currently involved with:
 - 👾 Learning C++, as a videogame enthusiast I want to keep the door open for possible roles in the industry;
 - 👯 I’m looking to collaborate on any projects that involves UI/UX;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=alessandro-001&theme=algolia&show_icons=true)](https://github.com/alessandro-001)
 
 <!--
 **alessandro-001/alessandro-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
