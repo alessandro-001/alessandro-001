@@ -13,10 +13,10 @@ Stuff I'm currently involved with:
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/alessandro-001" style="flex: 1; margin-right: 5px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=alessandro-001&theme=tokyonight&show_icons=true" alt="Github stats" style="height: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=alessandro-001&theme=tokyonight&show_icons=true" alt="Github Stats" style="height: 100%;">
   </a>
   <a href="https://github.com/alessandro-001" style="flex: 1; margin-left: 10px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandro-001&theme=tokyonight&show_icons=true&hide=html,css,shell" alt="Top languages" style="height: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandro-001&theme=tokyonight&show_icons=true&hide=html,css,shell" alt="Top Languages" style="height: 100%;">
   </a>
 </div>
 
