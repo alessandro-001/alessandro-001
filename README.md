@@ -5,9 +5,9 @@ Welcome to my GitHub! 🚀 I'm an enthusiastic early-career software developer, 
 Join me on this exciting path as we collaborate and create quality work that delights users and exceeds expectations!
 
 Stuff I'm currently involved with:
-- ⚛ Front-end web projects and mobile applications, honing my skills with React/React-native;
-- 👾 Learning C++, as a videogame enthusiast I want to keep the door open for possible roles in the industry;
-- 👯 I’m looking to collaborate on any projects that involves UI/UX;
+- ⚛ Front-end web projects and mobile applications, honing my skills with React/React-native ;
+- 👾 Currently exploring C# ;
+- 👯 I’m looking to collaborate on any projects that involves UI/UX ;
 
 #
 
