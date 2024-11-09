@@ -1,13 +1,7 @@
 ![Header](./banner-logo1.png)
 
+Welcome to my GitHub! 🚀 I’m a career switcher on an exciting journey toward my dream job as a software developer. Currently pursuing a Master’s in Computer Science, I’m a dedicated full-stack developer with a passion for precision and attention to detail—skills I honed as a former dental technician. Join me as I build, collaborate, and approach every task with passion and dedication!
 
-Welcome to my GitHub! 🚀 I'm an enthusiastic early-career software developer, always striving to improve and learn. My heart lies in the realm of front-end development, where my passion for precision and attention to detail, honed from my previous job as a dental technician, inspires me to create thoughtful user experiences. 
-Join me on this exciting path as we collaborate and create quality work that delights users and exceeds expectations!
-
-Stuff I'm currently involved with:
-- ⚛ Front-end web projects and mobile applications, honing my skills with React/React-native ;
-- 👾 Currently exploring C# ;
-- 👯 I’m looking to collaborate on any projects that involves UI/UX ;
 
 #
 
