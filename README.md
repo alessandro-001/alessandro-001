@@ -1,9 +1,14 @@
 ![Header](./banner-logo.png)
 
-Welcome to my GitHub! 🚀 I’m a career switcher on an exciting journey toward my dream job as a software developer. Currently pursuing a Master’s in Computer Science, I’m a dedicated full-stack developer with a passion for precision and attention to detail—skills I honed as a former dental technician. Join me as I build, collaborate, and approach every task with passion and dedication!
 
 
-#
+## About Me
+Welcome to my GitHub! 🚀 I’m a career switcher on an exciting journey toward my dream job as a software developer. 
+Currently pursuing a Master’s in Computer Science, I’m a dedicated full-stack developer with a passion for precision and attention to detail—skills I honed as a former dental technician. 
+Join me as I build, collaborate, and approach every task with passion and dedication!
+
+
+# Actively looking for a role as Software Developer!
 
 
 
