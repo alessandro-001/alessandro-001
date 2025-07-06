@@ -1,4 +1,4 @@
-# 🫣 About Me:
+# 👨‍💻 About Me:
 Welcome to my GitHub! 🚀<br>I am a career switcher currently pursuing a Master's in Computer Science, transitioning from a successful background as a dental technician to full-stack software development. My experience has instilled in me a strong attention to detail and a passion for building robust, user-focused solutions. I am now actively seeking opportunities to apply my skills and enthusiasm in a professional environment, and I am eager to contribute, collaborate, and learn as I launch my career in tech.
 
 
