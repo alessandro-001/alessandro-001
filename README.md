@@ -22,7 +22,7 @@ Welcome to my GitHub! 🚀<br>I am a career switcher currently pursuing a Master
 </p>
 
 ---
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=alessandro-001&color=blue" alt="Profile Views" />
 </p>
 
