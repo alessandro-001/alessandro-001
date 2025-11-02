@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Hey there! 👋 I'm Alessandro, a career switcher with a passion for creating meaningful software solutions. After years crafting precise dental work, I discovered my love for coding and am now wrapping up my Master's dissertation while actively seeking my first role in tech! My background taught me precision, attention to detail, and putting users first - skills that translate perfectly into software development. I'm excited to bring this unique perspective to a development team! ☕
+Hey there! I'm Alessandro, a career switcher with a passion for creating meaningful software solutions. After years crafting precise dental work, I discovered my love for coding and I have now completed my Masters with a Distinction! I'm now actively seeking for a role in tech. My background taught me precision, attention to detail, and putting users first - skills that translate perfectly into software development. I'm excited to bring this unique perspective to a development team!
 
 **💼 Open to opportunities!** Feel free to reach out if you're interested in collaborating or have exciting opportunities in software development.
 
