@@ -1,5 +1,5 @@
 # About Me:
-I’m Alessandro, a career switcher with a passion for creating meaningful software solutions. After many years crafting precise dental work, I discovered my love for coding and I have now completed a Master in Computer Science! I’m now actively seeking for a new role in tech. My background taught me precision, attention to detail, and putting users' needs first, skills that translate perfectly into software development. Currently focused on full-stack software development and embedded IoT systems. I’m excited to bring my unique perspective to any kind of development teams!
+I’m Alessandro, a career switcher with a passion for creating meaningful software solutions. After many years crafting precise dental work, I discovered my love for coding and I have now completed a Master in Computer Science! I’m now actively seeking for a new role in tech. My background taught me precision, attention to detail, and putting users' needs first, skills that translate perfectly into software development. Currently focused on full-stack software and embedded IoT systems, from PCB and circuit design to firmware development. I’m excited to bring my unique perspective to any kind of development teams!
 
 
 # Tech:
