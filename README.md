@@ -1,11 +1,11 @@
 ## About Me
 
-I’m Alessandro, a software engineer working on full-stack embedded systems and softwares. After transitioning from a dentistry background, I completed a Master’s in Computer Science and now focus on building integrated systems.
+I’m Alessandro, a software engineer working on full-stack embedded systems and software. After transitioning from a dentistry background, I completed a Master’s in Computer Science and now focus on building integrated systems.
 
 ### What I Work On
-- Embedded development (ESP32, firmwares)  
+- Embedded development (ESP32, firmware)  
 - Electronics design (PCB, circuit design)  
-- IIoT systems and device connectivity  
+- IIoT systems and device connectivity (WiFi, MQTT, HTTP)
 - Full-stack applications (backend services, APIs and frontend interfaces)  
 
 ### Interests
