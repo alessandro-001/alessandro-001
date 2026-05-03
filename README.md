@@ -1,5 +1,15 @@
-# About Me:
-I’m Alessandro, a career switcher with a passion for creating meaningful software solutions. After many years crafting precise dental work, I discovered my love for coding and I have now completed a Master in Computer Science! I’m now actively seeking for a new role in tech. My background taught me precision, attention to detail, and putting users' needs first, skills that translate perfectly into software development. Currently focused on full-stack software and embedded IoT systems, from PCB and circuit design to firmware development. I’m excited to bring my unique perspective to any kind of development teams!
+## About Me
+
+I’m Alessandro, a software engineer working on full-stack embedded systems and softwares. After transitioning from a dentistry background, I completed a Master’s in Computer Science and now focus on building integrated systems.
+
+### What I Work On
+- Embedded development (ESP32, firmwares)  
+- Electronics design (PCB, circuit design)  
+- IIoT systems and device connectivity  
+- Full-stack applications (backend services, APIs and frontend interfaces)  
+
+### Interests
+I’m particularly interested in projects that connect hardware and software into reliable, real-world systems.
 
 
 # Tech:
