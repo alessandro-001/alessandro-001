@@ -5,7 +5,7 @@ I’m Alessandro, a software engineer working on full-stack embedded systems and
 ### What I Work On
 - Embedded development (ESP32, firmware)  
 - Electronics design (PCB, circuit design)  
-- IIoT systems and device connectivity (WiFi, MQTT, HTTP)
+- IIoT systems and device connectivity (WiFi, MQTT, HTTP, Cloud dashboards)
 - Full-stack applications (backend services, APIs and frontend interfaces)  
 
 ### Interests
