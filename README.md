@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Alessandro, a Software engineer focused on embedded systems, firmware, and full-stack IIoT solutions. I enjoy building reliable systems that connect hardware, cloud services, and user-facing applications, from PCB and firmware development to APIs, dashboards, and device connectivity.
+I'm Alessandro, a Software engineer focused on embedded systems, firmware, full-stack IIoT solutions and edge computing. I enjoy building reliable systems that connect hardware, cloud services, and user-facing applications, from PCB and firmware development to APIs, dashboards, and device connectivity.
 
 ### What I Work On
 - Embedded development (ESP32, firmware)  
