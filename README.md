@@ -9,7 +9,7 @@ I'm Alessandro, a Software engineer focused on embedded systems, firmware, full-
 - Full-stack applications (backend services, APIs and frontend interfaces)  
 
 ### Interests
-I’m particularly interested in projects that connect hardware and software into real-world systems. Contact me for information or if you have an idea you want to develop!
+I’m particularly interested in projects that connect hardware and software into real-world systems. A niche interest in music production and hardware related development. Contact me for information or if you have any idea you want to develop! 
 
 
 # Tech:
